@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "JS post",
+      "body": "Where is the solid particle?"
+    },
+    {
+      "id": 2,
+      "title": "Java post",
+      "body": "Nunquam desiderium bromium."
+    },
+    {
+      "id": 3,
+      "title": "Emmet post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, nobis, veritatis! Consequuntur modi odit quam."
+    },
+    {
+      "id": 4,
+      "title": "Awesome post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, nobis, veritatis! Consequuntur modi odit quam."
+    },
+    {
+      "id": 5,
+      "title": " post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, nobis, veritatis! Consequuntur modi odit quam."
+    }
+  ]
+}
