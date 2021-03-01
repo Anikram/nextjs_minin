@@ -6,17 +6,19 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "mock": "json-server -w server/db.json -p 4200 -d 800",
+    "mock": "json-server -w server/db.json -p 4200 -d 1800",
     "serve": "concurrently \"NODE_OPTIONS='--inspect' yarn dev\" \"yarn mock\""
-
   },
   "dependencies": {
     "global": "^4.4.0",
     "json-server": "^0.16.3",
     "next": "10.0.7",
+    "nextjs-progressbar": "^0.0.7",
+    "nprogress": "^0.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "sass": "^1.32.8"
+    "sass": "^1.32.8",
+    "swr": "^0.4.2"
   },
   "devDependencies": {
     "concurrently": "^6.0.0"
